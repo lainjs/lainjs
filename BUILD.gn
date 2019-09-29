@@ -1,0 +1,5 @@
+group("lainjs-project") {
+  deps = [
+    "//shell:lainjs",
+  ]
+}

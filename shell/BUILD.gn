@@ -1,0 +1,9 @@
+executable("lainjs") {
+  sources = [
+    "main.cc",
+  ]
+  deps = [
+  ]
+  include_dirs = [
+  ]
+}
